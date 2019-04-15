@@ -1,4 +1,4 @@
-from sample import CountCharacter
+from utils.sample import CountCharacter
 
 if __name__ == '__main__':
 
